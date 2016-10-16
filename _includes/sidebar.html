@@ -1,0 +1,23 @@
+<aside class="small-12 medium-3 columns">
+	<header>
+		<h2>
+			{% if page.lang == 'en' %}
+			Further Information
+			{% else %}
+			Weitere Infos
+			{% endif %}
+		</h2>
+	</header>
+	{% for item in include.items %}
+		<article class="small callout">
+			<header>
+				<h3>
+					{{ item.title }}
+				</h3>
+			</header>
+			<section>
+				{{ item.content | markdownify }}
+			</section>
+		</article>
+	{% endfor %}
+</aside>

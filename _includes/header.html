@@ -1,0 +1,55 @@
+<header class="row">
+	<div class="small-12 hide-for-medium" data-sticky-container="data-sticky-container">
+		<div class="sticky title-bar" data-sticky="data-sticky">
+			<a href="#page" class="menu-icon" type="button" data-open="offCanvasLeft"></a>
+			<div class="title-bar-title">
+				<a href="
+					{% if page.lang == 'en' %}{{ site.baseurl }}/en/{% else %}{{ site.baseurl }}/{% endif %}">{{ site.title }}</a>
+			</div>
+		</div>
+	</div>
+	<div class="small-12 column text-center">
+		<img src="{{ site.baseurl }}/img/logo.png" alt="Logo">
+	</div>
+	<div class="small-12 column show-for-medium" data-sticky-container="data-sticky-container">
+		<nav class="sticky top-bar" data-sticky="data-sticky" data-options="
+	marginTop:0;" data-top-anchor="content">
+			<div class="top-bar-title">
+				<ul class="menu">
+					<li>
+						{% if page.lang == 'en' %}
+							<a href="{{ site.baseurl }}/en/">Home</a>
+						{% else %}
+							<a href="{{ site.baseurl }}/">Start</a>
+						{% endif %}
+						{{ home }}
+					</li>
+				</ul>
+			</div>
+			<div id="responsive-menu">
+				<div class="top-bar-left">		
+					<ul class="vertical medium-horizontal menu">
+					{% if page.lang == 'en' %}
+						{% assign pages = site.en %}
+					{% else %}
+						{% assign pages = site.pages %}
+					{% endif %}
+					{% assign pages = pages | sort: 'index' %}
+					{% for page in pages %}
+						{% unless page.special %}
+							{% if page.title %}
+								<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+							{% endif %}
+						{% endunless %}
+					{% endfor %}
+					</ul>	
+				</div>
+				{% if page.i18n %}
+				<div class="top-bar-right">
+					{% include language-switch.html %}
+				</div>
+				{% endif %}
+			</div>
+		</nav>
+	</div>
+</header>

@@ -1,0 +1,24 @@
+<div class="language-switcher i18n">
+	<ul class="language-list i18n menu">
+		{% assign langmodifier = page.url | split: "/" %}
+		{% case langmodifier[1] %}
+		{% when "en" %}
+			{% assign de-url = page.url | remove_first: '/en' | prepend: site.baseurl %}
+			{% assign en-url = page.url | prepend: site.baseurl %}
+		{% else %}
+			{% assign de-url = page.url | prepend: site.baseurl %}
+			{% assign en-url = page.url | prepend: '/en' | prepend: site.baseurl %}
+		{% endcase %}
+
+		<li class="language-switch i18n de">
+			<a class="language-link {% if langmodifier[1] != "en" %} active{% endif %}" href="{{ de-url }}" hreflang="de">
+				<img class="language-icon" width="20" height="12" src="{{ site.baseurl }}/img/flags/de.png" alt="Flagge" /> De
+			</a>
+		</li>
+		<li class="language-switch i18n en">
+			<a class="language-link{% if langmodifier[1] == "en" %} active{% endif %}" href="{{ en-url }}" hreflang="en">
+				<img class="language-icon" width="20" height="12" src="{{ site.baseurl }}/img/flags/en.png" alt="Flag" /> En
+			</a>
+		</li>
+	</ul>
+</div>

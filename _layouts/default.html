@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="{% if page.lang %}{{page.lang}}{% else %}de{% endif %}" class="no-js">
+
+	{% include head.html %}
+
+	<body id="page">
+		{% include skip-link.html %}
+		<div class="off-canvas-wrapper">
+			<div class="off-canvas-wrapper-inner" data-off-canvas-wrapper>
+			{% include off-canvas.html %}
+				<div class="off-canvas-content" data-off-canvas-content>
+				{% include header.html %}
+				
+				<main id="content" class="row">
+					{{ content }}
+					{% if page.lang == 'en' %}
+						{% assign items = site.en-sidebar %}
+					{% else %}
+						{% assign items = site.sidebar %}
+					{% endif %}
+					{% assign items = items | sort: 'index' %}
+					{% include sidebar.html  items=items %}
+				</main>
+
+				{% include footer.html %}
+				</div>
+			</div>
+		</div>
+
+		{% include lateload-scripts.html %}
+	</body>
+</html>

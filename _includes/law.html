@@ -1,0 +1,27 @@
+{% if include.lang == 'en' %}
+	<h2>Legal</h2>
+	<ul class="no-bullet">
+		<li>
+			<a href="{{ site.baseurl }}/en/imprint.html">Imprint</a>
+		</li>
+		<li>
+			<a href="{{ site.baseurl }}/en/disclaimer.html">Disclaimer</a>
+		</li>
+		<li>
+			<a href="{{ site.baseurl }}/en/privacy.html">Privacy Policy</a>
+		</li>
+	</ul>
+{% else %}
+	<h2>Rechtliches</h2>
+	<ul class="no-bullet">
+		<li>
+			<a href="{{ site.baseurl }}/impressum.html">Impressum</a>
+		</li>
+		<li>
+			<a href="{{ site.baseurl }}/haftungsausschluss.html">Haftungsausschluss</a>
+		</li>
+		<li>
+			<a href="{{ site.baseurl }}/datenschutz.html">Datenschutzerklärung</a>
+		</li>
+	</ul>
+{% endif %}

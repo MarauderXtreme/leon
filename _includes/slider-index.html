@@ -1,0 +1,19 @@
+<div class="index-slider">
+	{% for image in site.data.slider.index %}
+		<div>
+			{% if forloop.first %}
+				{% if image.absolute %}
+					<img src="{{ image.src }}" alt="{{ image.alt }}" />
+				{% else %}
+					<img src="{{ site.baseurl }}/img/slider/{{ image.src }}" alt="{{ image.alt }}" />
+				{% endif %}
+			{% else %}
+				{% if image.absolute %}
+			 		<img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-lazy="{{ image.src }}" alt="{{ image.alt }}" />
+				{% else %}
+			 		<img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-lazy="{{ site.baseurl }}/img/slider/{{ image.src }}" alt="{{ image.alt }}" />
+				{% endif %}
+			{% endif %}
+		</div>
+	{% endfor %}
+</div>

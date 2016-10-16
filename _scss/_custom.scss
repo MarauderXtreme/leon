@@ -1,0 +1,124 @@
+/**
+ * Place for site specific settings
+ */
+
+/**
+ * Social Media
+ */
+.social-media svg {
+	width: 2rem;
+}
+
+.facebook {
+	svg path {
+		fill: #3B5998;
+	}
+}
+
+.youtube {
+	svg path {
+		fill: #CD201F;
+	}
+}
+
+.instagram {
+	svg path {
+		fill: #E4405F;
+	}
+}
+
+.soundcloud {
+	svg path {
+		fill: #FF3300;
+	}
+}
+
+.rss {
+	svg path {
+		fill: #FFA500;
+	}
+}
+
+/**
+ *   Styles for the Skip link
+ */
+.element-invisible {
+	clip: rect(1px, 1px, 1px, 1px);
+	height: 1px;
+	overflow: hidden;
+	position: absolute !important;
+
+	&.element-focusable:active,
+	&.element-focusable:focus {
+		clip: auto;
+		height: auto;
+		overflow: visible;
+		position: static !important;
+
+	}
+}
+
+/**
+ *   Language switcher
+ */
+.language-switcher {
+
+	.language-list {
+		list-style: none;
+		margin-left: 0;
+
+		li {
+			margin-left: 1.375rem;
+
+			&:first-of-type {
+				margin-left: 0;
+			}
+		}
+	}
+	img.language-icon {
+		filter: url("#{$baseurl}/css/img/desaturate.svg#greyscale");
+		margin-top: -0.2rem;
+
+	}
+	.language-link {
+		text-decoration: none;
+
+		&.active {
+			cursor: default;
+			pointer-events: none;
+
+		}
+		&.active,
+		&:hover,
+		&:focus {
+
+			img.language-icon {
+				filter: none;
+
+			}
+		}
+	}
+}
+
+/**
+ * Sticky Nav
+ */
+header .sticky.title-bar {
+	position: fixed;
+	top: 0;
+	// Over 9000
+	z-index: 9001;
+}
+
+.sticky.title-bar,
+.sticky.top-bar {
+	width: 100%;
+
+}
+.sticky-container {
+	&.column,
+	&.columns {
+		padding-left: 0;
+		padding-right: 0;	
+	}
+}

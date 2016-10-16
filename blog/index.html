@@ -1,0 +1,49 @@
+---
+title: Blog
+layout: page
+special: true
+i18n: false
+---
+
+{% for post in paginator.posts %}
+<article>
+	<header>
+		<h2>
+			<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+		</h2>
+		<small></small>
+	</header>
+	<small class="post-meta">{{ post.date | date: "%d.%m.%Y" }}</small>
+	{% if post.description %}
+		{% assign desc = post.description %}
+	{% else %}
+		{% assign desc = post.excerpt | remove: '<p>' | remove: '</p>' %}
+	{% endif %}
+	<section>
+		<p class="small light-font">
+			{{ desc | strip_html | truncate: site.teaser-length, '...' }}
+		</p>
+	<section>
+	{% include author.html author=post.author %}
+</article>
+{% endfor %}
+
+<ul class="pagination" role="navigation" aria-label="Pagination">
+{% if paginator.previous_page %}
+	<li class="pagination-previous">
+		<a href="{{ paginator.previous_page_path }}" aria-label="Vorherige Seite">Zurück</a>
+	</li>
+{% else %}
+	<li class="pagination-previous disabled">
+		Zurück
+	</li>
+{% endif %}
+	<li class="current"><span class="show-for-sr">Du bist auf Seite</span> {{ paginator.page }}</li>
+{% if paginator.next_page %}
+	<li class="pagination-next"><a href="{{ paginator.next_page_path }}" aria-label="Nächste Seite">Vorwärts</a></li>
+{% else %}
+	<li class="pagination-next disabled">
+		Vorwärts
+	</li>
+{% endif %}
+</ul>

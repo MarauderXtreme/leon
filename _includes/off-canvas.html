@@ -1,0 +1,29 @@
+<div class="off-canvas position-left" id="offCanvasLeft" data-off-canvas>
+
+	<!-- Close button -->
+	<button class="close-button" aria-label="Close menu" type="button" data-close>
+		<span aria-hidden="true">&times;</span>
+	</button>
+
+	<!-- Menu -->
+
+	{% if page.i18n %}
+		{% include language-switch.html %}
+	{% endif %}
+	<ul class="vertical menu">
+	{% if page.lang == 'en' %}
+		{% assign pages = site.en %}
+	{% else %}
+		{% assign pages = site.pages %}
+	{% endif %}
+	{% assign pages = pages | sort: 'index' %}
+	{% for page in pages %}
+		{% unless page.special == true %}
+			{% if page.title %}
+				<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+			{% endif %}
+		{% endunless %}
+	{% endfor %}
+	</ul>
+
+</div>

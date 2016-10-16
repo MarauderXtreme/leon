@@ -1,0 +1,119 @@
+# Site settings
+title: "Leon Braje"
+email: leon@braje.org
+baseurl: "/leon" # the subpath of your site, e.g. /blog/
+url: "https://marauderxtreme.github.io" # the base hostname & protocol for your site
+
+# Global Metatags
+metatag:
+  de:
+    description: ""
+    abstract:
+    keywords:
+    "og:title": ""
+    "og:description": ""
+    "og:locale":
+    "og:locale:alternate":
+    "og:image":
+    "og:image:secure:url":
+    "og:type":
+    "og:site_name":
+    "og:url":
+    "og:type":
+    HandheldFriendly: true
+  en:
+    description: ""
+    abstract:
+    keywords:
+    "og:title": ""
+    "og:description": ""
+    "og:locale":
+    "og:ocale-alternate":
+    "og:image":
+    "og:secure-url":
+    "og:type":
+    "og:site_name":
+    "og:url":
+    "og:type":
+    HandheldFriendly: true
+
+# Build settings
+markdown: kramdown
+
+gems:
+  - jekyll
+  - jekyll-paginate
+
+exclude:
+  - .c9
+  - .git
+  - bower_components
+  - Gemfile
+  - Gemfile.lock
+
+permalink: none
+
+paginate: 5
+paginate_path: "/blog/page:num"
+
+teaser-length: 500
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+      lang: de
+      i18n: true
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      permalink: blog/:path:output_ext
+      lang: de
+      i18n: true
+  -
+    scope:
+      path: ""
+      type: "drafts"
+    values:
+      layout: "post"
+      category: drafts
+      i18n: true
+  -
+    scope:
+      path: ""
+      type: "en"
+    values:
+      layout: "page"
+      permalink: en/:path:output_ext
+      lang: en
+      i18n: true
+  -
+    scope:
+      path: ""
+      type: "en-posts"
+    values:
+      layout: "post"
+      permalink: en/blog/:path:output_ext
+      lang: en
+      i18n: true
+
+sass:
+  sass_dir: _scss
+  # development setting
+  style: :expanded
+  # production setting
+  # style: :compressed
+
+collections:
+  sidebar: {}
+  en:
+    output: true
+  en-posts:
+    output: true
+  en-sidebar: {}

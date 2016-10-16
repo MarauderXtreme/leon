@@ -1,0 +1,21 @@
+index:
+  -
+    absolute: true
+    src: https://placeholdit.imgix.net/~text?txtsize=75&txt=First&w=900&h=300&txttrack=0
+    alt: First
+  - 
+    absolute: true
+    src: https://placeholdit.imgix.net/~text?txtsize=75&bg=aaaaaa&txtclr=e8117f&txt=Second&w=900&h=300&txttrack=0
+    alt: Second
+  -
+    absolute: true
+    src: https://placeholdit.imgix.net/~text?txtsize=75&bg=e8117f&txtclr=aaaaaa&txt=Third&w=900&h=300&txttrack=0
+    alt: Third
+  -
+    absolute: true
+    src: https://placekitten.com/900/300
+    alt: Kitten
+  -
+    absolute: true
+    src: https://placeholdit.imgix.net/~text?txtsize=75&bg=000000&txtclr=ffffff&txt=Last&w=900&h=300&txttrack=0
+    alt: Last
