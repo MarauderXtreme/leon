@@ -106,9 +106,9 @@ defaults:
 sass:
   sass_dir: _scss
   # development setting
-  style: :expanded
+  # style: :expanded
   # production setting
-  # style: :compressed
+  style: :compressed
 
 collections:
   sidebar: {}

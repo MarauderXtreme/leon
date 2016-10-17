@@ -1,4 +1,4 @@
-<aside class="small-12 medium-3 columns">
+<aside id="sidebar" class="small-12 medium-3 columns">
 	<header>
 		<h2>
 			{% if page.lang == 'en' %}
@@ -16,7 +16,7 @@
 				</h3>
 			</header>
 			<section>
-				{{ item.content | markdownify }}
+				{{ item.content }}
 			</section>
 		</article>
 	{% endfor %}

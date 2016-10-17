@@ -2,3 +2,5 @@ default:
   head:
     - 
       src: /css/style.css
+    -
+      src: https://fonts.googleapis.com/css?family=Asul|Roboto|PT+Mono|Noto+Serif|Playfair+Display

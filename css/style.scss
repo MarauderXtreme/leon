@@ -7,11 +7,12 @@ $baseurl: "{{ site.baseurl }}";
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import 'normalize';
-@import 'foundation/settings/settings';
-@import 'settings';
-@import 'foundation/foundation';
 @import 'slick/slick';
 @import 'slick/slick-theme';
-@import 'custom';
+
+@import 'settings';
+@import 'foundation/foundation';
 
 @include foundation-everything;
+
+@import 'custom';
