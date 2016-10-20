@@ -20,8 +20,11 @@ Mit 14 Jahren habe ich an einer Singer-Songwriter-Werkstatt der Landesmusikakade
 	</div>
 </div>
 
-<!-- Falls euch interessiert, wie sich meine Stimme damals angehört hat und welches Thema mich in dem Alter beschäftigt hat: Link…    -->         
-          
+Falls euch interessiert, wie sich meine Stimme damals angehört hat und welches Thema mich in dem Alter beschäftigt hat:
+<div class="flex-video widescreen">
+	<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/289155735&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+</div>
+
 Aufgrund aktuell laufender Projekte und meinen Verpflichtungen gegenüber „The Voice of Germany“ werdet Ihr meine eigenen Songs Anfang Sommer 2017 hören können. Ich bin super aufgeregt und bin sehr dankbar, so viele begnadete Herzblutmusiker an meiner Seite zu haben. 
 
 <figure>
