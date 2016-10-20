@@ -2,10 +2,39 @@
 title: Referenzen
 layout: page
 index: 400
+i18n: false
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Firmenfeiern
+------------
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+* Fössebad Hannover (Sommerfest)
+* Soroptimist-Club Hannover (Jubiläumsfeier)
+* Chemie-Vertrieb Hannover (Weihnachtsfeier)
+* Maxximum Personalmanagement (Weihnachtsfeier)
+* Lions Club Isernhagen 
+* Glücksmomente e.V. (Weihnachtsfeier)
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Hochzeiten
+----------
+
+* St. Nikolai Kirche, Kirchhorst
+* Landhaus am See, Garbsen
+* Kückenmühle, Ronnenberg
+* Fischerstübchen/Wilkenburger See, Hemmingen
+
+Diverse Geburtstagsfeiern
+-------------------------
+in Hannover und Region
+
+Weitere 
+-------
+### Diverse Bargigs in Hannover: 
+
+* The Wild Geese 
+* IhmeRauschen
+* Brauhaus Ernst-August
+
+### … und überregionale Termine:  
+* Hofnacht, Pirna 
+* Stadtfest/ Tag der Niedersachsen, Goslar 

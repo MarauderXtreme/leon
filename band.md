@@ -2,10 +2,19 @@
 title: Band
 layout: page
 index: 300
+i18n: false
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Weil wir alle wieder richtig Bock auf selbstgemachte Mucke hatten, haben wir uns wieder zusammengefunden und proben wir seit einigen Monaten mit unser neu gegründeten Band **Quintessence**. Wir sind 5 Jungs und spielen in der Besetzung: 
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+* Leon Braje (Gesang und Westerngitarre)
+* Max Hagedorn (Bass, Gesang)
+* Corin Hartwig (Sologitarre, Gesang)
+* Ilay Kaulbarsch (Piano)
+* Jens Monzel (Schlagzeug)
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Wir alle sind Studenten mit viel Bühnenerfahrung und kennen uns bereits aus der Band Camuba unter der Leitung von Kurt Klose. So konnten wir gleich aufgewärmt durchstarten. Unser Repertoire ist wahnsinnig vielseitig. Von ruhigen Nummern von Xavier Naidoo oder Alexander Kanppe bis hin zu angerockten Songs wie Teenage dirtbag oder Californication.
+
+Supergeil: Eigene Songs, die Corin und ich fleißig schreiben werden euch bald erwarten! Lasst euch überraschen!
+
+Wir freuen uns auf Euch!
