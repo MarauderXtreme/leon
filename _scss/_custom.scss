@@ -9,33 +9,65 @@
 	width: 2rem;
 }
 
+$facebook: #3B5998;
+$youtube: #CD201F;
+$instagram: #E4405F;
+$soundcloud: #FF3300;
+$rss: #FFA500;
+$darken-hover: 5%;
+
 .facebook {
 	svg path {
-		fill: #3B5998;
+		fill: $facebook;
+	}
+	&:hover {	
+		svg path {
+			fill: darken($facebook,$darken-hover);
+		}
 	}
 }
 
 .youtube {
 	svg path {
-		fill: #CD201F;
+		fill: $youtube;
+	}
+	&:hover {	
+		svg path {
+			fill: darken($youtube,$darken-hover);
+		}
 	}
 }
 
 .instagram {
 	svg path {
-		fill: #E4405F;
+		fill: $instagram;
+	}
+	&:hover {	
+		svg path {
+			fill: darken($instagram,$darken-hover);
+		}
 	}
 }
 
 .soundcloud {
 	svg path {
-		fill: #FF3300;
+		fill: $soundcloud;
+	}
+	&:hover {	
+		svg path {
+			fill: darken($soundcloud,$darken-hover);
+		}
 	}
 }
 
 .rss {
 	svg path {
-		fill: #FFA500;
+		fill: $rss;
+	}
+	&:hover {	
+		svg path {
+			fill: darken($rss,$darken-hover);
+		}
 	}
 }
 
