@@ -3,11 +3,16 @@ groups:
     type: android
     path: /img/icons/android-icon-
     sizes:
+      - 36x36
+      - 48x48
+      - 72x72
+      - 96x96
+      - 144x144
       - 192x192
   -
     type: apple
     rel: apple-touch-icon
-    path: /img/icons/apple-touch-icons-
+    path: /img/icons/apple-icon-
     sizes:
       - 57x57
       - 60x60
@@ -18,7 +23,6 @@ groups:
       - 144x144
       - 152x152
       - 180x180
-      - 192x192
   -
     type: favicon
     path: /img/icons/favicon-
@@ -30,6 +34,9 @@ groups:
     type: ms
     path: /img/icons/ms-icon-
     sizes:
+      - 70x70
       - 144x144
+      - 150x150
+      - 310x310
 android-manifest: /img/icons/manifest.json
-ms-tilecolor: "#FFFFFF"
+ms-tilecolor: "#91c100"
