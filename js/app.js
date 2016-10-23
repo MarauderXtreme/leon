@@ -28,6 +28,7 @@ $(document).ready(function(){
 		slidesToShow: 1,
 		accessbility: true,
   	adaptiveHeight: true,
+		lazyLoad: 'progressive',
 		// Disable navigation arrows
 		arrows: false
 	});
