@@ -3,7 +3,8 @@
  */
 
 body {
-	background: $dim-gray;
+	//This should bring the off-canvas to one color
+	background: $offcanvas-background;
 }
 
 /**
@@ -157,4 +158,51 @@ header .sticky.title-bar {
 		padding-left: 0;
 		padding-right: 0;	
 	}
+}
+
+/**
+ * Slick Slider Tweaks
+ */
+
+$arrow-size: 40px;
+$arrow-transition: 0.5s ease;
+
+.slick-slider {
+
+	.slick-prev,
+	.slick-next {
+		width: $arrow-size;
+		height: $arrow-size;
+		z-index: -42;
+		-webkit-transition: $arrow-transition;
+		transition: $arrow-transition;
+
+		&:before {
+			font-size: $arrow-size;
+			color: $primary-color;
+		}
+	}
+
+	.slick-prev {
+		left: -$arrow-size;
+	}
+
+	.slick-next {
+		right: -$arrow-size;
+	}
+
+	&:hover {
+		.slick-prev,
+		.slick-next {
+			z-index: 42;
+		}
+
+		.slick-prev {
+			left: 0;
+		}
+		.slick-next {
+			right: 0;
+		}
+	}
+
 }

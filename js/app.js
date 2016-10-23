@@ -30,7 +30,7 @@ $(document).ready(function(){
   	adaptiveHeight: true,
 		lazyLoad: 'progressive',
 		// Disable navigation arrows
-		arrows: false
+		arrows: true
 	});
 	easteregg();
 });
