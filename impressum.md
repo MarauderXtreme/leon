@@ -7,9 +7,9 @@ i18n: false
 
 Angaben gemäß § 5 TMG:
 ----------------------
-Leon Braje    
-Maxstr. 42    
-42666 German Town
+Leon Braje
+Am Kalkofen 1
+30952 Ronnenberg
 
 Kontakt:
 --------
