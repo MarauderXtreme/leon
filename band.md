@@ -13,7 +13,7 @@ Weil wir alle wieder richtig Bock auf selbstgemachte Mucke hatten, haben wir uns
 * Ilay Kaulbarsch (Piano)
 * Jens Monzel (Schlagzeug)
 
-Wir alle sind Studenten mit viel Bühnenerfahrung und kennen uns bereits aus der Band Camuba unter der Leitung von Kurt Klose. So konnten wir gleich aufgewärmt durchstarten. Unser Repertoire ist wahnsinnig vielseitig. Von ruhigen Nummern von Xavier Naidoo oder Alexander Kanppe bis hin zu angerockten Songs wie Teenage dirtbag oder Californication.
+Wir alle sind Studenten mit viel Bühnenerfahrung und kennen uns bereits aus der Band Camuba unter der Leitung von Kurt Klose. So konnten wir gleich aufgewärmt durchstarten. Unser Repertoire ist wahnsinnig vielseitig. Von ruhigen Nummern von Xavier Naidoo oder Alexander Knappe bis hin zu angerockten Songs wie Teenage Dirtbag oder Californication.
 
 Supergeil: Eigene Songs, die Corin und ich fleißig schreiben werden euch bald erwarten! Lasst euch überraschen!
 
