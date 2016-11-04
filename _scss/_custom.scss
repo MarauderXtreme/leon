@@ -8,6 +8,13 @@ body {
 }
 
 /**
+ * Footer to secondary color
+ */
+footer article.callout {
+	background: $secondary-color;
+}
+
+/**
  * Social Media
  */
 .social-media svg {
