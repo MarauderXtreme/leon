@@ -1,10 +1,5 @@
 {% if include.author %}{% assign author = include.author %}{% else %}{% assign author = page.author %}{% endif %}
 <section class="small author callout">
-<!-- 	{% if page.lang == 'en' %}
-	Author:
-	{% else %}
-	Autor:
-	{% endif %} -->
 	{% case author %}
 		{% when 'Leon' %}
 			{% include author/leon.html %}
