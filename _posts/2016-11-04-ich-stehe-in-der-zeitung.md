@@ -1,5 +1,5 @@
 ---
-title: Ich steh in der HAZ
+title: Ich stehe in der HAZ
 layout: post
 author: Leon
 i18n: false
