@@ -1,4 +1,8 @@
 index:
+  - 
+    absolute: false
+    src: sunset.jpg
+    alt: Leon mit Gitarre neben einem Strohballen. Im Hintergrund scheint die Sonne. Leon ist fast nur als Scherenschnitt zu sehen.
   -
     absolute: false
     src: composing.jpg
@@ -7,7 +11,3 @@ index:
     absolute: false
     src: feldsession.jpg
     alt: Leon mit Gitarre for einem Feld
-  - 
-    absolute: false
-    src: sunset.jpg
-    alt: Leon mit Gitarre neben einem Strohballen. Im Hintergrund scheint die Sonne. Leon ist fast nur als Scherenschnitt zu sehen.
