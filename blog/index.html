@@ -6,24 +6,21 @@ i18n: false
 ---
 
 {% for post in paginator.posts %}
-<article>
+<article class="small callout">
 	<header>
 		<h2>
 			<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
 		</h2>
-		<small></small>
+		<small class="post-meta">{{ post.date | date: "%d.%m.%Y" }}</small>
 	</header>
-	<small class="post-meta">{{ post.date | date: "%d.%m.%Y" }}</small>
 	{% if post.description %}
 		{% assign desc = post.description %}
 	{% else %}
-		{% assign desc = post.excerpt | remove: '<p>' | remove: '</p>' %}
+		{% assign desc = post.excerpt %}
 	{% endif %}
 	<section>
-		<p class="small light-font">
-			{{ desc | strip_html | truncate: site.teaser-length, '...' }}
-		</p>
-	<section>
+			{{ desc | replace: '<h3', '<h4' | replace: '</h3>', '</h4>' | replace: '<h2', '<h3' | replace: '</h2>', '</h3>' | truncate: site.teaser-length, '...' }}
+	</section>
 	{% include author.html author=post.author %}
 </article>
 {% endfor %}
