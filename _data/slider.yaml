@@ -1,4 +1,8 @@
 index:
+  -
+    absolute: false
+    src: feldsession.jpg
+    alt: Leon mit Gitarre for einem Feld
   - 
     absolute: false
     src: sunset.jpg
@@ -7,7 +11,3 @@ index:
     absolute: false
     src: composing.jpg
     alt: Leon beim Komponieren auf seinem Bett mit Gitarre
-  -
-    absolute: false
-    src: feldsession.jpg
-    alt: Leon mit Gitarre for einem Feld
