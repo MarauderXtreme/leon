@@ -8,7 +8,7 @@ i18n: false
 Firmenfeiern
 ------------
 
-* Fössebad Hannover (Sommerfest)
+* [Fössebad Hannover (Sommerfest)](http://www.haz.de/Hannover/Aus-den-Stadtteilen/Limmer/Limmer-feiert-den-ganzen-Tag){:target="blank"}
 * Soroptimist-Club Hannover (Jubiläumsfeier)
 * Chemie-Vertrieb Hannover (Weihnachtsfeier)
 * Maxximum Personalmanagement (Weihnachtsfeier)
