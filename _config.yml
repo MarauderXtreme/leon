@@ -10,7 +10,7 @@ metatag:
     description: ""
     abstract:
     keywords:
-    "og:title": ""
+    "og:title": "Leon Braje"
     "og:description": ""
     "og:locale":
     "og:locale:alternate":
@@ -44,6 +44,7 @@ gems:
   - jekyll
   - jekyll-paginate
   - jekyll-sitemap
+  - jemoji
 
 exclude:
   - .c9
