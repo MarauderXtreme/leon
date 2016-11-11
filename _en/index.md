@@ -2,6 +2,7 @@
 title: Welcome to my site
 layout: page
 special: true
+sitemap: false
 ---
 
 {% include slider-index.html %}

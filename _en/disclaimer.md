@@ -3,6 +3,7 @@ title: Disclaimner
 layout: page
 special: true
 i18n: false
+sitemap: false
 ---
 
 Haftung für Inhalte

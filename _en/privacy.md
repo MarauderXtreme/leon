@@ -3,6 +3,7 @@ title: Privacy Policy
 layout: page
 special: true
 i18n: false
+sitemap: false
 ---
 
 Datenschutz

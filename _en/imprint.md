@@ -3,6 +3,7 @@ title: Imprint
 layout: page
 special: true
 i18n: false
+sitemap: false
 ---
 
 Angaben gemäß § 5 TMG:
