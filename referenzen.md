@@ -27,6 +27,7 @@ in Hannover und Region
 
 Weitere 
 -------
+
 ### Diverse Bargigs in Hannover: 
 
 * The Wild Geese 
