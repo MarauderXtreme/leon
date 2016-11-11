@@ -7,7 +7,6 @@ i18n: false
 
 Firmenfeiern
 ------------
-
 * [Fössebad Hannover (Sommerfest)](http://www.haz.de/Hannover/Aus-den-Stadtteilen/Limmer/Limmer-feiert-den-ganzen-Tag){:target="blank"}
 * Soroptimist-Club Hannover (Jubiläumsfeier)
 * Chemie-Vertrieb Hannover (Weihnachtsfeier)
@@ -17,7 +16,6 @@ Firmenfeiern
 
 Hochzeiten
 ----------
-
 * St. Nikolai Kirche, Kirchhorst
 * Landhaus am See, Garbsen
 * Kückenmühle, Ronnenberg
