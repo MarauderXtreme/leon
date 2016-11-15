@@ -24,12 +24,12 @@ Alles über die Arbeit und den Verein Glücksmomente in Isernhagen erfahrt Ihr h
 <div class="row">
 	<div class="small-12 medium-6 columns">
 		<figure>
-			<img src="{{ site.baseurl }}/img/singer-songwriter/Gluecksmomente_Cover.JPG" alt="Gluecksmomente 1" />
+			<img src="{{ site.baseurl }}/img/singer-songwriter/Gluecksmomente_Cover.JPG" alt="Gluecksmomente 1" class="rotate90"/>
 		</figure>
 	</div>
 	<div class="small-12 medium-6 columns">
 		<figure>
-			<img src="{{ site.baseurl }}/img/singer-songwriter/Gluecksmomente_Snapshot.JPG" alt="Gluecksmomente 2" />
+			<img src="{{ site.baseurl }}/img/singer-songwriter/Gluecksmomente_Snapshot.JPG" alt="Gluecksmomente 2" class="rotate90"/>
 		</figure>
 	</div>
 </div>
