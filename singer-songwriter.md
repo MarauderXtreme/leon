@@ -21,6 +21,7 @@ Aufgrund aktuell laufender Projekte und meinen Verpflichtungen gegenüber „The
 Mit dem Verein Glücksmomente e.V. aus Isernhagen hat sich nach einer Weihnachtsfeier, bei der ich als Musiker engagiert war eine tolle Freundschaft entwickelt. Daraufhin haben wir zusammen ein tolles Projekt gestartet: Ich habe ehrenamtlich mit den Kindern einen Song über die Bedeutung und die Arbeit des Vereins geschrieben... 
 Dieser soll auf den ehrenamtlichen Verein und dessen wertvolle Arbeit aufmerksam machen und zum Mitsingen für die Kinder dienen. 
 Alles über die Arbeit und den Verein Glücksmomente in Isernhagen erfahrt Ihr hier: [Glücksmomente-Verein](http://www.gluecksmomente-verein.de/){:target="blank"}
+<!---
 <div class="row">
 	<div class="small-12 medium-6 columns">
 		<figure>
@@ -33,7 +34,7 @@ Alles über die Arbeit und den Verein Glücksmomente in Isernhagen erfahrt Ihr h
 		</figure>
 	</div>
 </div>
-
+--> 
 ## Desire (Singer-Songwriter-Werkstatt)
 
 Mit 14 Jahren habe ich an einer Singer-Songwriter-Werkstatt der Landesmusikakademie in Wolfenbüttel teilgenommen. Meine Begeisterung war geweckt! Damals hatte ich die Chance meinen Song „Desire“ mit Jens Krause, dem Produzenten von den Prinzen und Fury in the Slaughterhouse zu produzieren. Viel Unterstützung hatte ich dabei auch durch meinen guten Bekannten und Vocalcoach Roland Loy. 
