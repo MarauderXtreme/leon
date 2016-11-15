@@ -20,8 +20,7 @@ Aufgrund aktuell laufender Projekte und meinen Verpflichtungen gegenüber „The
 
 Mit dem Verein Glücksmomente e.V. aus Isernhagen hat sich nach einer Weihnachtsfeier, bei der ich als Musiker engagiert war eine tolle Freundschaft entwickelt. Daraufhin haben wir zusammen ein tolles Projekt gestartet: Ich habe ehrenamtlich mit den Kindern einen Song über die Bedeutung und die Arbeit des Vereins geschrieben... 
 Dieser soll auf den ehrenamtlichen Verein und dessen wertvolle Arbeit aufmerksam machen und zum Mitsingen für die Kinder dienen. 
-Alles über die Arbeit und den Verein Glücksmomente in Isernhagen erfahrt Ihr hier: http://www.gluecksmomente-verein.de/
-
+Alles über die Arbeit und den Verein Glücksmomente in Isernhagen erfahrt Ihr hier: [Glücksmomente-Verein](http://www.gluecksmomente-verein.de/){:target="blank"}
 <div class="row">
 	<div class="small-12 medium-6 columns">
 		<figure>
