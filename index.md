@@ -15,3 +15,5 @@ Ich bin aktuell Teil der sechsten Staffel von **The Voice of Germany**!!! :smile
 Alle Videos, Interviews und Artikel dazu findet ihr auf [@LeonBrajeMusik](https://www.facebook.com/LeonBrajeMusik){:target="blank"} und auf [@leonbraje](https://www.instagram.com/leonbraje/){:target="blank"}...
 
 [Hier](http://www.the-voice-of-germany.de/video/66-leon-braje-wunderbare-jahre-clip){:target="blank"} geht's zu meiner Blind Audition! 
+
+Darüber hinaus könnt ihr über meine Erfahrungen im [Blog](http://lb-music.de/blog/){:target="blank"} nachlesen.
