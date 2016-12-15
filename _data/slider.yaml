@@ -1,6 +1,10 @@
 index:
   -
     absolute: false
+    src: live_at_Knappe.jpg
+    alt: Leon beim Liveauftritt in Cottbus (bei Alexander Knappe)
+  -
+    absolute: false
     src: feldsession.jpg
     alt: Leon mit Gitarre for einem Feld
   - 
