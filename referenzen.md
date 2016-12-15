@@ -35,5 +35,7 @@ Weitere
 * Brauhaus Ernst-August
 
 ### … und überregionale Termine:  
+* Cottbus, Alexander Knappe Konzert (Vorprogramm und Duett)
+* The Voice of Germany 2016 (3 Ausstrahlungen in Sat1)
 * Hofnacht, Pirna 
 * Stadtfest/ Tag der Niedersachsen, Goslar 
