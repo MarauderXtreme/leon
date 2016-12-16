@@ -5,6 +5,8 @@
 
   <title>{% if page.title %}{{ page.title | append: ' | ' | append:  site.title }}{% else %}{{ site.title }}{% endif %}</title>
 
+	
+
 	{% case include.lang %}
 	{% when "en" %}
 		{% assign metatags=site.metatag.en %}
@@ -17,6 +19,7 @@
 			<meta name="{{ metatag[0] }}" content="{{ page.metatag[key] }}" />
 		{% elsif key == "description" and page.excerpt %}
 			<meta name="description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}" />
+		{% elsif key == "" %}
 		{% elsif metatag[1] %}
 			<meta name="{{ metatag[0] }}" content="{{ metatag[1] }}" />
 		{% endif %}
