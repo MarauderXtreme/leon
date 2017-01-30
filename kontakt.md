@@ -5,9 +5,9 @@ index: 600
 i18n: false
 ---
 
-Auf Anregungen und Anfragen freue ich mich schon: <leonbrajemusik@gmail.com>  
+Auf Anfragen und Auftritte jeglicher Art freue ich mich schon: <leonbrajemusik@gmail.com>  
 Schickt mir auf Facebook eine Nachricht. [@LeonBrajeMusik](https://www.facebook.com/LeonBrajeMusik/){:target="_blank"}  
-Falls euch meine Musik gefällt könnt Ihr mich auch für Events [buchen](http://www.eventagentur-hannover.com/portfolio/leon-braje){:target="_blank"}
+
 
 Herzlichen Dank für die Unterstützung
 -------------------------------------
