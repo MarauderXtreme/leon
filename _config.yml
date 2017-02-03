@@ -50,8 +50,11 @@ exclude:
   - .c9
   - .git
   - bower_components
+  - bower.json
+  - CNAME
   - Gemfile
   - Gemfile.lock
+  - README.md
 
 permalink: none
 
