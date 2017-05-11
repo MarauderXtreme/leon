@@ -5,6 +5,8 @@ index: 100
 i18n: false
 ---
 
+Videos, Fotos und Aktuelles findet Ihr vor allem bei Facebook: [@LeonBrajeMusik](https://www.facebook.com/LeonBrajeMusik){:target="blank"}  und auf Instagram: [@leonbraje](https://www.instagram.com/leonbraje/){:target="blank"} 
+
 **Angefangen hat alles** an einem Freitagabend, Monate nach meinem Abitur. Ich packte meinen Mut und meine Gitarre und zog von Bar zu Bar. Nach dem Ausstieg als Gitarrist aus meiner damaligen Band aufgrund meines Abiturs wollte ich weiter Musik machen. Nur ungezwungener und direkter! Also probierte ich Barmusik! 
 
 <figure>
@@ -22,3 +24,17 @@ Auch heute bin ich noch in vielen bekannten hannoverschen *Bars* zu hören. Übe
 		<small>Leon und die Glücksgang (Glücksmomente e.V.)</small>
 	</figcaption>
 </figure>
+
+The Voice of Germany
+--------------------
+
+Ich war Teil der sechsten Staffel 2016 und wurde dreimal im deutschen Fernsehen auf Sat.1 ausgestrahlt!  Es waren großartige Erfahrungen und ich bekam Einblicke in die Musikbranche und in das private Leben von sehr bekannten Künstlern. Ich bin wahnsinnig glücklich und inspiriert Andreas Bourani und Alexander Knappe kennengelernt zu haben.
+
+<figure>
+	<img src="{{ site.baseurl }}/img/solomusiker/blindaudition.jpg" alt="Leon bei den Blindauditions - The Voice of Germany 2016" />
+	<figcaption>
+		<small>&copy;ProSieben SAT.1 / Richard Huebner</small>
+	</figcaption>
+</figure>
+
+[Hier](https://www.youtube.com/watch?v=V2c62lHxk1U){:target="blank"}  geht’s zu meiner Blind Audition! Im [Blog]({{ site.baseurl }}/blog) könnt ihr über ein paar Erfahrungen nachlesen.
