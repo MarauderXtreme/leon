@@ -7,8 +7,8 @@ i18n: false
 
 Angaben gemäß § 5 TMG:
 ----------------------
-Leon Braje
-Am Kalkofen 1
+Leon Braje  
+Am Kalkofen 1  
 30952 Ronnenberg
 
 Kontakt:
