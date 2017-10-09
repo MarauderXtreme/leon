@@ -10,32 +10,34 @@ Firmenfeiern
 * Fössebad Hannover (Sommerfest)
 * Soroptimist-Club Hannover (Jubiläumsfeier)
 * Chemie-Vertrieb Hannover (Weihnachtsfeier)
-* Maxximum Personalmanagement (Weihnachtsfeier)
-* Lions Club Isernhagen 
+* Maximum Personalmanagement (Weihnachtsfeier)
+* Lions Club Isernhagen (Weihnachtsfeier)
 * Glücksmomente e.V. (Weihnachtsfeier)
+* CDU Burgwedel (Hoffest)
 
 Hochzeiten
 ----------
-* Über 25 in der Region Hannover
+* Über 40
 
 Diverse Geburtstagsfeiern
 -------------------------
-* Über 30 in Hannover und Region
+* Über 30
 
 Bargigs
 -------
-* Über 35 in Hannover
-* The Wild Geese
-* IhmeRauschen
-* Brauhaus Ernst-August
-* Ballhof Café
-* Kulturpalast Linden
+* Harry’s New York Bar (Hannover)
+* The Wild Geese (Hannover)
+* IhmeRauschen (Hannover)
+* Brauhaus Ernst-August (Hannover)
+* Ballhof Café (Hannover)
+* Kulturpalast Linden (Hannover)
+* Altes Gericht (Ronnenberg)
 
-Überregionale Events:
+
+Events:
 ---------------------  
-* Vorprogramm von Alexander Knappe, Cottbus
-* Hofnacht, Pirna
-* The Voice of Germany 2016 (3 Ausstrahlungen in Sat1) 
-* Stadtfest, Goslar
-* Tag der Niedersachsen, Aurich
-* Verabschiedungsfeiern der Marie-Curie Schule
+* Messen (Maker Faire Hannover, Infa)
+* Liveauftritte bei Radio Hannover 100.0 und Radio Leinhertz 106.5
+* Stadtfeste (Goslar, Aurich, Ronnenberg, Barsinghausen, Gehrden, Langenhagen, Pirna) 
+* The Voice of Germany 2016 (3 Ausstrahlungen in Sat.1)
+* Vorprogramm von Alexander Knappe
