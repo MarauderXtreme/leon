@@ -5,6 +5,8 @@ index: 400
 i18n: false
 ---
 
+
+
 Firmenfeiern
 ------------
 * Fössebad Hannover (Sommerfest)
@@ -19,7 +21,7 @@ Hochzeiten
 ----------
 * Über 40
 
-Diverse Geburtstagsfeiern
+Geburtstagsfeiern
 -------------------------
 * Über 30
 
