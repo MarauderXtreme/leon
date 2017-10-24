@@ -10,7 +10,7 @@ Videos, Fotos und Aktuelles findet Ihr vor allem bei Facebook: [@LeonBrajeMusik]
 <figure>
 	<img src="{{ site.baseurl }}/img/solomusiker/Compilation.jpg" alt="Solomusiker Leon" />
 	<figcaption>
-		<small>(Meine ersten Gigs im IhmeRauschen…)</small>
+		<small>(Solomusiker Leon)</small>
 	</figcaption>
 </figure>
 
