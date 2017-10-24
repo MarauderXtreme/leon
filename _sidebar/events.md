@@ -5,7 +5,7 @@ index: 200
 
 <ul class="no-bullet">
 	<li>
-		21.10.17: Infa Messe – Hannover, Messehalle 26, 15:00 - 16:00 Uhr
+		10.11.17 - 17.11.17: TuiCruises, Mein Schiff 5
 	</li>
 	
 </ul>

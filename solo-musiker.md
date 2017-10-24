@@ -7,6 +7,13 @@ i18n: false
 
 Videos, Fotos und Aktuelles findet Ihr vor allem bei Facebook: [@LeonBrajeMusik](https://www.facebook.com/LeonBrajeMusik){:target="blank"}  und auf Instagram: [@leonbraje](https://www.instagram.com/leonbraje/){:target="blank"} 
 
+<figure>
+	<img src="{{ site.baseurl }}/img/solomusiker/Compilation.jpg" alt="Solomusiker Leon" />
+	<figcaption>
+		<small>(Meine ersten Gigs im IhmeRauschen…)</small>
+	</figcaption>
+</figure>
+
 **Angefangen hat alles** an einem Freitagabend, Monate nach meinem Abitur. Ich packte meinen Mut und meine Gitarre und zog von Bar zu Bar. Nach dem Ausstieg als Gitarrist aus meiner damaligen Band aufgrund meines Abiturs wollte ich weiter Musik machen. Nur ungezwungener und direkter! Also probierte ich Barmusik! 
 
 <figure>
