@@ -1,17 +1,21 @@
 index:
   -
     absolute: false
-    src: live_at_knappe.jpg
-    alt: Leon beim Liveauftritt in Cottbus (bei Alexander Knappe)
+    src: Private_Feier_2017-Foto_Hannes_Frischat.jpg
+    alt: Leon beim einer privaten Feier
   -
     absolute: false
-    src: feldsession.jpg
+    src: Feldsession.JPG
     alt: Leon mit Gitarre for einem Feld
   - 
     absolute: false
-    src: sunset.jpg
-    alt: Leon mit Gitarre neben einem Strohballen. Im Hintergrund scheint die Sonne. Leon ist fast nur als Scherenschnitt zu sehen.
+    src: Vorprogramm_Alexander_Knappe_2016.jpg
+    alt: Leon beim Liveauftritt in Cottbus (bei Alexander Knappe)
   -
     absolute: false
-    src: composing.jpg
-    alt: Leon beim Komponieren auf seinem Bett mit Gitarre
+    src: Leon_Braje.jpg
+    alt: Leon mit seiner western Gitarre
+  -
+    absolute: false
+    src: Leon_Braje_Akustik.jpg
+    alt: Leon mit seiner akustischen Gitarre
