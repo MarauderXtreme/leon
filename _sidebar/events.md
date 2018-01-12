@@ -14,10 +14,10 @@ index: 200
 		29.12.17: Wild Geese Hannover Nordstadt, 21:45 Uhr
 	</li>
 	<li>
-		12.01.17: Wild Geese Hannover, 21:00 Uhr
+		17.01.18: Wild Geese Hannover Nordstadt, 21:45 Uhr
 	</li>
 	<li>
-		26.01.17: Wild Geese Hannover Nordstadt, 21:45 Uhr
+		26.01.18: Wild Geese Hannover Nordstadt, 21:45 Uhr
 	</li>
 	
 </ul>
