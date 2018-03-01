@@ -8,8 +8,8 @@ i18n: false
 
 Events:
 ---------------------  
-* Kreuzfahrt TUI Cruizes (Gastmusik, Theater)
-* Messen (Maker Faire Hannover, Infa)
+* Kreuzfahrt TUI Cruises (Gastmusik, Theater)
+* Messen (Maker Faire Hannover, Infa, CeBIT)
 * Liveauftritte bei Radio Hannover 100.0 und Radio Leinhertz 106.5
 * Stadtfeste (Goslar, Aurich, Ronnenberg, Barsinghausen, Gehrden, Langenhagen, Pirna) 
 * The Voice of Germany 2016 (3 Ausstrahlungen in Sat.1)
@@ -24,9 +24,11 @@ Firmenfeiern
 * Lions Club Isernhagen (Weihnachtsfeier)
 * Glücksmomente e.V. (Weihnachtsfeier)
 * CDU Burgwedel (Hoffest)
+* Kommunikationsgesellschaft DPV (Jahresversammlung)
 
 Bargigs
 -------
+* Bürgerpark Schäppchen (Lübbecke)
 * Harry’s New York Bar, Sheraton Hotel (Hannover)
 * The Wild Geese (Hannover & Hildesheim)
 * IhmeRauschen (Hannover)
