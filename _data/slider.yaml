@@ -1,21 +1,13 @@
 index:
   -
     absolute: false
-    src: Private_Feier_2017-Foto_Hannes_Frischat.jpg
-    alt: Leon beim einer privaten Feier
+    src: 1.jpg
+    alt: Leon Braje – der Musiker
   -
     absolute: false
-    src: feldsession.jpg
-    alt: Leon mit Gitarre for einem Feld
+    src: 2.jpg
+    alt: Leon mit seiner western Gitarre
   - 
     absolute: false
-    src: Vorprogramm_Alexander_Knappe_2016.jpg
-    alt: Leon beim Liveauftritt in Cottbus (bei Alexander Knappe)
-  -
-    absolute: false
-    src: Leon_Braje.jpg
-    alt: Leon mit seiner western Gitarre
-  -
-    absolute: false
-    src: Leon_Braje_Akustik.jpg
-    alt: Leon mit seiner akustischen Gitarre
+    src: 3.jpg
+    alt: Leon bei einer privaten Feier
