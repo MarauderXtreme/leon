@@ -5,22 +5,10 @@ index: 200
 
 <ul class="no-bullet">
 	<li>
-		10.11.17 - 17.11.17: TuiCruises, Mein Schiff 5
+		17.03.18: Sulingen, Lindeneck, 21:00 Uhr
 	</li>
 	<li>
-		23.12.17: Wild Geese Hildesheim, 21:45 Uhr
-	</li>
-	<li>
-		29.12.17: Wild Geese Hannover Nordstadt, 21:45 Uhr
-	</li>
-	<li>
-		12.01.18: Wild Geese Hannover Nordstadt, 21:45 Uhr
-	</li>
-	<li>
-		26.01.18: Wild Geese Hannover Nordstadt, 21:45 Uhr
-	</li>
-	<li>
-		17.02.18: Wild Geese Hannover Nordstadt, 21:45 Uhr
+		14.04.18: Goslar, Celtic Inn, 21:00 Uhr
 	</li>
 	
 </ul>
