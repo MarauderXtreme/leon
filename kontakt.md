@@ -5,7 +5,7 @@ index: 600
 i18n: false
 ---
 <div class="row">
-	<div class="small-12 medium-5 columns">
+	<div class="small-12 medium-6 columns">
 Auf Anfragen und Auftritte jeglicher Art freue ich mich schon: <leonbrajemusik@gmail.com>  
 Schickt mir auf Facebook eine Nachricht. [@LeonBrajeMusik](https://www.facebook.com/LeonBrajeMusik/){:target="_blank"}  
 
@@ -18,7 +18,7 @@ Schickt mir auf Facebook eine Nachricht. [@LeonBrajeMusik](https://www.facebook.
 <li>An Christoph, der mir die Website erstellt hat: [Kepler International](https://kepler.international){:target="_blank"}.
 </ul>
 </div>
-<div class="small-5 medium-7 columns end">
+<div class="small-12 medium-6 columns columns">
 <img alt="Equipment" src="{{ site.baseurl }}/img/Equipment.png" />
 </div>
 </div>
