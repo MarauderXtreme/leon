@@ -10,12 +10,13 @@ Auf Anfragen und Auftritte jeglicher Art freue ich mich schon: <leonbrajemusik@g
 Schickt mir auf Facebook eine Nachricht. [@LeonBrajeMusik](https://www.facebook.com/LeonBrajeMusik/){:target="_blank"}  
 
 
-Herzlichen Dank für die Unterstützung
--------------------------------------
+<h1>Herzlichen Dank für die Unterstützung</h1>
 
-* An meine Freundin und meine Familie 
-* An meine Freunde für die Liveunterstützung bei Auftritten
-* An Christoph, der mir die Website erstellt hat: [Kepler International](https://kepler.international){:target="_blank"}.
+<ul>
+<li>An meine Freundin und meine Familie 
+<li>An meine Freunde für die Liveunterstützung bei Auftritten
+<li>An Christoph, der mir die Website erstellt hat: [Kepler International](https://kepler.international){:target="_blank"}.
+</ul>
 </div>
 <div class="small-5 medium-7 columns end">
 <img alt="Equipment" src="{{ site.baseurl }}/img/Equipment.png" />
