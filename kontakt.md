@@ -4,7 +4,8 @@ layout: page
 index: 600
 i18n: false
 ---
-
+<div class="row">
+	<div class="small-12 medium-5 columns">
 Auf Anfragen und Auftritte jeglicher Art freue ich mich schon: <leonbrajemusik@gmail.com>  
 Schickt mir auf Facebook eine Nachricht. [@LeonBrajeMusik](https://www.facebook.com/LeonBrajeMusik/){:target="_blank"}  
 
@@ -15,3 +16,8 @@ Herzlichen Dank für die Unterstützung
 * An meine Freundin und meine Familie 
 * An meine Freunde für die Liveunterstützung bei Auftritten
 * An Christoph, der mir die Website erstellt hat: [Kepler International](https://kepler.international){:target="_blank"}.
+</div>
+<div class="small-5 medium-7 columns end">
+<img alt="Equipment" src="{{ site.baseurl }}/img/Equipment.png" />
+</div>
+</div>
