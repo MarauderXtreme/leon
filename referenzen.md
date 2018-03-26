@@ -8,12 +8,12 @@ i18n: false
 
 Events:
 ---------------------  
-* Kreuzfahrt TUI Cruises (Gastmusik, Theater)
+* Kreuzfahrt TUI Cruises (Gastmusiker, Theater)
 * Messen (Maker Faire Hannover, Infa, CeBIT)
 * Liveauftritte bei Radio Hannover 100.0 und Radio Leinhertz 106.5
 * Stadtfeste (Goslar, Aurich, Ronnenberg, Barsinghausen, Gehrden, Langenhagen, Pirna) 
 * The Voice of Germany 2016 (3 Ausstrahlungen in Sat.1)
-* Vorprogramm von Alexander Knappe
+* Vorprogramm von Alexander Knappe, Gastauftritt bei Garland Jeffreys
 
 Firmenfeiern
 ------------
@@ -32,10 +32,12 @@ Bargigs
 * Harry’s New York Bar, Sheraton Hotel (Hannover)
 * The Wild Geese (Hannover & Hildesheim)
 * IhmeRauschen (Hannover)
-* Brauhaus Ernst-August (Hannover)
 * Ballhof Café (Hannover)
 * Kulturpalast Linden (Hannover)
 * Altes Gericht (Ronnenberg)
+* Celtic Inn (Goslar)
+* Gasthaus am Hafen (Nienburg)
+* Lindeneck (Sulingen)
 
 Hochzeiten
 ----------
