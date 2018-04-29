@@ -40,7 +40,7 @@ metatag:
 # Build settings
 markdown: kramdown
 
-gems:
+plugins:
   - jekyll
   - jekyll-paginate
   - jekyll-sitemap
