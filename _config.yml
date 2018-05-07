@@ -2,7 +2,7 @@
 title: "Leon Braje"
 email: leon.braje@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://lb-music.de" # the base hostname & protocol for your site
+url: "https://lb-music.de" # the base hostname & protocol for your site
 
 # Global Metatags
 metatag:
