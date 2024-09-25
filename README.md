@@ -1,9 +1,11 @@
 # leon
+
 Website for the talented musician Leon Braje
 
 You can find it [here](http://lb-music.de/).
 
 ## Build with
+
 * HTML 5
 * CSS3
 * [Foundation 6](https://foundation.zurb.com/)
