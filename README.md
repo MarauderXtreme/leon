@@ -1,6 +1,6 @@
 # leon
 
-Website for the talented musician Leon Braje
+Website for the talented musician Leon
 
 You can find it [here](http://lb-music.de/).
 
