@@ -8,14 +8,14 @@ i18n: false
 Die Produktion meiner ersten Cd läuft. Ich bin super aufgeregt und bin sehr dankbar, so viele begnadete Herzblutmusiker an meiner Seite zu haben. In eigenen deutschsprachigen Songs erwartet euch viel Gefühl, Erlebnisse und Erinnerungen. Bei meinen Soloauftritten werdet ihr pro Abend immer um die drei Songs von mir hören.
 
 <figure>
-	<img src="{{ site.baseurl }}/img/singer-songwriter/composing.jpg" alt="Leon Braje auf seinem Bett beim Songschreiben" />
+	<img src="{{ site.baseurl }}/img/singer-songwriter/composing.jpg" alt="Leon auf seinem Bett beim Songschreiben" />
 	<figcaption>
 		<small>Der beste Platz zum Songwriting…</small>
 	</figcaption>
 </figure>
 
 
-## Glücksmomentekinder feat. Leon Braje
+## Glücksmomentekinder feat. Leon
 
 
 Mit dem Verein Glücksmomente e.V. aus Isernhagen hat sich nach einer Weihnachtsfeier, bei der ich als Musiker engagiert war eine tolle Freundschaft entwickelt. Daraufhin haben wir zusammen ein tolles Projekt gestartet: Ich habe ehrenamtlich mit den Kindern einen Song über die Bedeutung und die Arbeit des Vereins geschrieben...
