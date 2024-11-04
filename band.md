@@ -16,11 +16,11 @@ Erfolgreich unterwegs bin ich auch mit meiner Band Quintessence. Wir sind 5 jung
 <div class="row">
 	<div class="small-12 medium-5 columns">
 		<ul>
-			<li>Leon Braje (Gesang und Westerngitarre)</li>
-			<li>Max Hagedorn (Bass, Gesang)</li>
-			<li>Corin Hartwig (Sologitarre, Gesang)</li>
-			<li>Ilay Kaulbarsch (Piano)</li>
-			<li>Jens Monzel (Schlagzeug)</li>
+			<li>Leon (Gesang und Westerngitarre)</li>
+			<li>Max (Bass, Gesang)</li>
+			<li>Corin (Sologitarre, Gesang)</li>
+			<li>Ilay (Piano)</li>
+			<li>Jens (Schlagzeug)</li>
 		</ul>
 	</div>
 	<div class="small-5 medium-7 columns end">
