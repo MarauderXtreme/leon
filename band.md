@@ -11,7 +11,7 @@ i18n: false
 	</div>
 </div>
 
-Erfolgreich unterwegs bin ich auch mit meiner Band Quintessence. Wir sind 5 junge Studenten aus der Region Hannover und spielen in folgender Besetzung:
+Erfolgreich unterwegs bin ich auch mit meiner Band. Wir sind 5 junge Studenten aus der Region Hannover und spielen in folgender Besetzung:
 
 <div class="row">
 	<div class="small-12 medium-5 columns">
